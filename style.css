@@ -1,0 +1,37 @@
+.navbar {
+    max-height: 50px;
+    background-color: #67aeca;
+    font-size: 15px;
+    border-bottom-color: #CAEBF2;
+    font-family: "Times New Roman";
+}
+
+
+.navbar-brand {
+    color: white;
+    padding: inherit;
+}
+
+.nav-item {
+    color: white;
+    background-color: #67aeca;
+    padding: inherit;
+    font-weight: bold;
+    font-family: "Times New Roman";
+}
+
+.footer {
+    background-color: #67aeca;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    position: fixed;
+    min-height: 50px;
+    font-family: 'Times New Roman';
+}
+
+.big-banner {
+    background-image: url('/img/computer_backgroud.jpg');
+    background-size: 100%;
+}
