@@ -96,6 +96,10 @@ a:focus {
     opacity: 0.7;
 }
 
+.about-me-text {
+    background-color: black;
+    color: whitesmoke;
+}
 
 /* ---------------------------------------------------
     SIDEBAR STYLE
@@ -237,5 +241,10 @@ a.article:hover {
     #sidebarCollapse span {
         display: none;
         background-color: #55BCC9;
+    }
+
+    .about-me-photo {
+        width: 275px;
+        height: 350px;
     }
 }
